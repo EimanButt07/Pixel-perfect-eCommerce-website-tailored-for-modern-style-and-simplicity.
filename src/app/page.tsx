@@ -6,6 +6,7 @@ import Brands from './components/Brands';
 import Products from './Products/NewArrivals';
 import DressStyle from './components/DressStyle';
 import TopProducts from './Products/TopSeling';
+import Footer from './components/Footer';
 
 const page = () => {
   return (
@@ -17,6 +18,7 @@ const page = () => {
       <Products/>
       <TopProducts/>
        <DressStyle/>
+       <Footer/>
     </div>
   )
 }
