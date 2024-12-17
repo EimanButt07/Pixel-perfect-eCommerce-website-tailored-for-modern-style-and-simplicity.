@@ -17,27 +17,29 @@ import {
 const components: { title: string; href: string; description: string }[] = [
 
   {
-    title: "Progress",
+    title: "Casuals",
     href: "/docs/primitives/progress",
-    description:
-      "Displays an indicator showing the completion progress of a task, typically displayed as a progress bar.",
+    description: "Casual looks that keep you feeling cool and relaxed."
+
+
   },
   {
-    title: "Scroll-area",
+    title: "Formals",
     href: "/docs/primitives/scroll-area",
-    description: "Visually or semantically separates content.",
-  },
+    description: "Sharp, sleek, and sophisticated for every occasion."
+ },
   {
-    title: "Tabs",
+    title: "Party",
     href: "/docs/primitives/tabs",
     description:
-      "A set of layered sections of content—known as tab panels—that are displayed one at a time.",
+    "Be the center of attention with our stunning party styles."
+,
   },
   {
-    title: "Tooltip",
+    title: "Gym",
     href: "/docs/primitives/tooltip",
     description:
-      "A popup that displays information related to an element when the element receives keyboard focus or the mouse hovers over it.",
+"Gear up for greatness – performance meets style."
   },
 ]
 
